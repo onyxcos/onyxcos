@@ -2,7 +2,7 @@
 <div align="center">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=500&color=A65AD7&center=true&vCenter=true&multiline=true&width=435&height=110&lines=I'm+Onyx!+I+also+go+by+Rui;My+theme+song+is+Mr.Showtime;HUUUGE+Rui+oshi+and+Airi+oshi!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=500&color=A65AD7&center=true&vCenter=true&multiline=true&width=435&height=110&lines=On+a+hiatus;I'm+Onyx!+I+also+go+by+Rui;My+theme+song+is+Mr.Showtime;HUUUGE+Rui+oshi+and+Airi+oshi!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">
 
